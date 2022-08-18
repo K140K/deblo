@@ -2,5 +2,5 @@
 	"ip":"SenkinSok.aternos.me",
 	"port": "23873",
 	"name": "SenkinSok",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
